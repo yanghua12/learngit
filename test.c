@@ -12,6 +12,8 @@ int main(void)
         printf("apple\r\n");
     } else if(a == 2) {
         printf("orange\r\n");
+    } else if (a == 3) {
+        printf("watermelon\r\n");
     }
     
     return 0;
